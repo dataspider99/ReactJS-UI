@@ -1,0 +1,6 @@
+{
+  "name": "DataJobs",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DataJobs.js"
+}

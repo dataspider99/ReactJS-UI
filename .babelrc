@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    ["transform-react-loadable", {
+      "server": true,
+      "webpack": true
+    }],
+    ["transform-object-rest-spread", { "useBuiltIns": true }]	
+  ]
+}
